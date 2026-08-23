@@ -1,6 +1,9 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc.js";
 import { collectAll } from "./collect/index.js";
+
+dayjs.extend(utc);
 import { summarizeAndScore } from "./ai/summarize.js";
 import type { NewsData, NewsItem } from "./types.js";
 
@@ -32,7 +35,7 @@ async function run() {
   }
 
   const newsData: NewsData = {
-    collected_at: dayjs().format(),
+    collected_at: dayjs().utcOffset(9 * 60).format(),
     items: newsItems.sort((a, b) => (b.relevance_score ?? 0) - (a.relevance_score ?? 0)),
   };
 
@@ -44,7 +47,7 @@ async function run() {
   const fallbackCount = newsItems.length - aiProcessedCount;
 
   const log = {
-    date: dayjs().format("YYYY-MM-DD"),
+    date: dayjs(newsData.collected_at).format("YYYY-MM-DD"),
     collected_at: newsData.collected_at,
     total_items: newsItems.length,
     source_stats: sourceStats,
