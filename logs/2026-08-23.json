@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "collected_at": "2026-08-23T20:31:33+00:00",
+  "collected_at": "2026-08-24T06:02:00+09:00",
   "total_items": 64,
   "source_stats": [
     {
@@ -22,7 +22,7 @@
       "error": null
     }
   ],
-  "ai_processed_count": 0,
-  "fallback_count": 64,
-  "high_relevance_ratio": 0
+  "ai_processed_count": 55,
+  "fallback_count": 9,
+  "high_relevance_ratio": 0.047
 }

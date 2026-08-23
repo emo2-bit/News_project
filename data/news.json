@@ -1,254 +1,846 @@
 {
-  "collected_at": "2026-08-23T20:31:33+00:00",
+  "collected_at": "2026-08-24T06:02:00+09:00",
   "items": [
     {
       "title": "'PLP 개척' 韓, 대만에 주도권 빼앗기나",
       "url": "https://www.etnews.com/20260821000252",
       "source": "전자신문",
       "category": "기사",
-      "published_at": "2026-08-23T07:30:00+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "GM 몸값 맞먹는 139조 잉여현금…삼성전자 '빅딜' 없으면 추가 청구서 받는다",
-      "url": "https://www.etnews.com/20260823000037",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
-      "url": "https://www.etnews.com/20260821000107",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "30만전자 탈환 앞뒀는데…800만 삼성 개미들, 역대 최대 주주환원에 발목?",
-      "url": "https://www.etnews.com/20260823000053",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-08-23T04:46:47+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
-      "url": "https://www.etnews.com/20260823000044",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-08-23T03:03:06+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저",
-      "url": "https://www.etnews.com/20260823000039",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-08-23T02:40:00+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택'",
-      "url": "https://zdnet.co.kr/view/?no=20260823233523",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-08-23T14:35:23+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "KAIST, 구리튜브에 100나노 코팅…열전달 성능 5.5배 개선",
-      "url": "https://zdnet.co.kr/view/?no=20260823152210",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-08-23T06:22:10+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T16:30:00+09:00",
+      "summary": "한국이 최초 상용화한 패널레벨패키징(PLP)이 표준 부재와 생태계 미비로 대만 TSMC 진영에 주도권을 뺏길 위기라는 내용이다. PLP는 AI 칩 양산에 필요한 첨단 패키징 기술로, 후공정(패키징) 표준화와 소재·장비 생태계 조성이 향후 메모리·비메모리 경쟁력에 직결되므로 공정기술 직무 관점에서 첨단 패키징 표준 동향을 주시할 필요가 있다. 특히 다양한 패널 규격 난립은 공정 표준화 이슈로, 향후 공정기술 설계 시 고려해야 할 중요한 산업 동향이다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "패키징",
+        "장비",
+        "시장",
+        "정책",
+        "표준화"
+      ],
+      "ai_processed": true
     },
     {
       "title": "[ZD브리핑] 카카오 김범수, 다시 법정으로…삼성·SK하이닉스, 美서 AI 메모리 승부",
       "url": "https://zdnet.co.kr/view/?no=20260823141059",
       "source": "ZDNet Korea",
       "category": "기타",
-      "published_at": "2026-08-23T05:14:01+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T14:14:01+09:00",
+      "summary": "이번 주 핫칩스 2026에서 삼성전자는 HBM 베이스 다이, LPDDR5X-PIM, CXL 기술을, SK하이닉스는 HBM 패키징 기술을 발표하는 등 AI 메모리 경쟁이 본격화되고 있어 공정기술 직무 준비생이라면 양사의 최신 발표 내용을 주목할 필요가 있다. 또한 SK하이닉스가 미국 웨스트라피엣에 AI 메모리용 첨단 패키징 공장을 착공하는 것은 후공정(패키징) 기술의 중요성이 커지고 있음을 보여주는 사례로, HBM 경쟁 심화에 따른 공정·패키징 기술 트렌드를 파악하는 데 유용하다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "소자",
+        "장비",
+        "시장",
+        "HBM",
+        "패키징",
+        "AI메모리",
+        "경쟁사동향"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "SK하이닉스, CPO 청사진 공개…\"메모리도 빛으로 연결\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61167",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T15:45:48+09:00",
+      "summary": "SK하이닉스가 AI 시대 대역폭 한계를 극복하기 위한 CPO(공동패키지광학) 기술 청사진을 학술지에 발표했다. 이는 메모리-연산 장치 간 데이터 전송을 전기 신호에서 광 신호로 전환하는 차세대 패키징·인터커넥트 기술로, HBM 이후 메모리 대역폭 확장을 위한 경쟁사의 기술 방향성을 보여주는 사례다. 공정기술 직무 준비생 입장에서는 패키징-공정 융합 기술 트렌드와 경쟁사의 R&D 로드맵을 파악하는 데 참고할 만하다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "패키징",
+        "소자",
+        "경쟁사 동향",
+        "기술 트렌드",
+        "HBM"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
+      "url": "https://www.etnews.com/20260823000044",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-08-23T12:03:06+09:00",
+      "summary": "엔비디아가 메모리 공급 부족을 이유로 AI 서버 가격을 15% 인상한다는 소식으로, 이는 HBM 등 고대역폭 메모리 수요가 AI 반도체 생태계 전반의 원가와 공급망에 직접적 영향을 미치고 있음을 보여준다. 공정기술 직무 관점에서는 메모리 공급 부족이 삼성전자의 HBM/DRAM 생산능력 증설 및 수율 개선 압박으로 이어질 수 있어, 관련 공정 투자와 기술 로드맵의 배경을 이해하는 데 참고할 만하다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "시장",
+        "소자",
+        "메모리 공급",
+        "HBM",
+        "가격 동향"
+      ],
+      "ai_processed": true
     },
     {
       "title": "\"엔비디아, AI 서버 가격 15% 이상 인상\"",
       "url": "https://zdnet.co.kr/view/?no=20260823124959",
       "source": "ZDNet Korea",
       "category": "기사",
-      "published_at": "2026-08-23T04:13:11+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T13:13:11+09:00",
+      "summary": "이 기사는 HBM/D램 수요 급증으로 메모리 업체(삼성전자·SK하이닉스·마이크론)의 협상력이 강화되어 엔비디아가 AI 서버 가격을 인상하는 상황을 다룬다. 공정기술 직무 관점에서는 HBM 및 고성능 D램 수요 증가가 곧 미세공정 전환, 생산능력(CAPA) 확대, 수율 개선 압박으로 이어질 수 있음을 시사하며, 메모리 3사의 공정 경쟁력 강화 필요성을 보여주는 시장 동향 기사다. 직접적인 공정 기술 내용은 없지만 HBM 중심의 공정 투자 방향성을 이해하는 데 참고할 만하다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "시장",
+        "소자",
+        "HBM",
+        "D램",
+        "공정투자"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "앱솔릭스, 4000억원 유증…SKC 조달 자금 유리기판에 본격 투입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61211",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T16:12:09+09:00",
+      "summary": "SKC 자회사 앱솔릭스가 유리기판(Glass Substrate) 상업화를 위해 4000억원 규모 유상증자를 단행하며 본격적인 양산 투자에 나선다. 유리기판은 반도체 패키징 기판 소재의 차세대 기술로, 미세화·고집적화 및 성능 향상을 위한 후공정/패키징 기술 트렌드와 직결되므로 공정기술 직무 지원자는 소재-기판 혁신 동향으로 참고할 만하다. 다만 메모리 전공정 자체보다는 패키징·기판 소재 산업 동향에 가까운 기사다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "공정",
+        "소재",
+        "패키징",
+        "시장",
+        "투자"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "티씨케이, 수주잔고 역대 최대…6개월 이상 주문도 등장",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61178",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T14:36:19+09:00",
+      "summary": "티씨케이는 반도체 식각 공정 등에 필수적인 CVD-SiC 부품(링, 전극 등) 공급업체로, 수주잔고 급증은 팹 가동률 회복과 함께 식각/증착 공정용 소모성 부품 수요가 늘고 있음을 보여준다. 공정기술 직무 지원자 입장에서는 SiC 부품이 플라즈마 식각 공정의 파티클 제어와 수명에 직결되는 핵심 소재임을 이해하고, 팹 가동률 변화가 공정 소재·부품 수급에 미치는 영향을 파악하는 데 참고할 만한 기사다. 다만 소자/공정 기술 자체보다는 부품 공급망 및 시장 동향에 초점이 맞춰져 있어 직접적인 공정기술 관련도는 중간 수준이다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "공정",
+        "장비",
+        "시장",
+        "소재/부품"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "프라임마스, CXL 솔루션 'JBOM'으로 2800억원 매출 도전",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61173",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T18:12:03+09:00",
+      "summary": "CXL 기반 풀드 메모리 솔루션은 서버 메모리 용량 확장과 이기종 메모리 통합의 핵심 기술로, 향후 메모리 반도체의 응용 및 패키징/인터페이스 공정 트렌드에 영향을 줄 수 있다. 공정기술 직무 관점에서는 CXL 컨트롤러-메모리 모듈 연계, 이종 다이 통합(패키징) 기술 동향을 파악하는 데 참고할 만한 시장 동향 기사이다. 다만 팹리스 설계·비즈니스 중심 내용으로 실제 공정 세부기술보다는 시장/응용 트렌드에 가깝다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "시장",
+        "소자",
+        "패키징",
+        "인터페이스",
+        "CXL"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "주성엔지니어링, 흑자 턴어라운드…2300억 수주잔고로 하반기 '맑음'",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61156",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T15:21:07+09:00",
+      "summary": "주성엔지니어링의 흑자전환과 2300억원 수주잔고 확보는 반도체 장비 업계의 투자 사이클 회복 신호로, 공정기술 직무 준비생 입장에서 고객사의 신규 팹 인프라 구축 및 장비 반입 스케줄이 실제 공정 램프업 일정과 직결됨을 보여준다. 특히 ALD 등 박막 증착 장비 전문 업체의 수주 회복은 향후 메모리 공정 투자 확대와 신규 장비 도입 트렌드를 가늠할 수 있는 지표가 된다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "장비",
+        "시장",
+        "공정"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "GM 몸값 맞먹는 139조 잉여현금…삼성전자 '빅딜' 없으면 추가 청구서 받는다",
+      "url": "https://www.etnews.com/20260823000037",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-08-23T16:00:00+09:00",
+      "summary": "이 기사는 삼성전자의 대규모 주주환원과 잉여현금을 다루는 경영·재무 이슈로, 공정기술 자체보다는 회사의 자본배분 전략과 대형 M&A 가능성에 초점이 있다. 다만 향후 M&A가 파운드리나 메모리 공정 경쟁력 강화(예: 장비·소재 기업 인수)로 이어질 경우 공정기술 로드맵에 간접적 영향을 줄 수 있어 참고할 만하다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "경영전략"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "'상장 도전' 글로벌테크놀로지, 실적 관건은 '삼성 미니 LED TV 추가 채택'",
+      "url": "https://zdnet.co.kr/view/?no=20260823233523",
+      "source": "ZDNet Korea",
+      "category": "기사",
+      "published_at": "2026-08-23T23:35:23+09:00",
+      "summary": "이 기사는 미니 LED TV용 LDI(LED 드라이버 IC) 공급사인 글로벌테크놀로지의 코스닥 상장과 삼성전자 네오 QLED TV 채택 확대 전략을 다룬다. 메모리 공정기술 직무와 직접적 연관성은 낮지만, 미니 LED BLU 구조 개선(4-in-1 솔루션)을 통한 원가 절감 및 디스플레이용 반도체 소자 기술 동향을 파악하는 데 참고할 수 있다. 삼성전자 세트사업부(VD)와의 협력 구조 및 부품 공급망 이해에 도움이 되는 시장 정보성 기사다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "소자",
+        "디스플레이",
+        "공급망"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "KAIST, 구리튜브에 100나노 코팅…열전달 성능 5.5배 개선",
+      "url": "https://zdnet.co.kr/view/?no=20260823152210",
+      "source": "ZDNet Korea",
+      "category": "기사",
+      "published_at": "2026-08-23T15:22:10+09:00",
+      "summary": "이 연구는 반도체 소자가 아닌 열전달 냉각 기술(구리튜브 코팅)에 관한 것으로, 반도체 공정기술 직무와 직접적 연관성은 낮다. 다만 초박막 고분자 코팅(iCVD)과 열처리를 통한 표면 개질 기법은 반도체 패키징/방열 솔루션 개발에 참고될 수 있는 응용 가능성이 있어 간접적 관련성을 가진다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "공정",
+        "소재",
+        "연구개발",
+        "열관리"
+      ],
+      "ai_processed": true
     },
     {
       "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도",
       "url": "https://zdnet.co.kr/view/?no=20260822230826",
       "source": "ZDNet Korea",
       "category": "기타",
-      "published_at": "2026-08-23T02:30:02+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T11:30:02+09:00",
+      "summary": "앤트로픽이 구글 TPU 개발 핵심 인재를 영입해 자체 AI 반도체(맞춤형 칩) 개발에 나선 사례로, AI 기업들이 소프트웨어를 넘어 반도체·인프라 주도권 경쟁으로 확장하고 있음을 보여준다. 이는 커스텀 실리콘(ASIC) 수요 증가로 이어져 메모리(HBM 등) 및 파운드리 공정 기술에 대한 요구를 다변화시킬 수 있어 공정기술 직무 관점에서 시장·수요 트렌드 파악에 참고할 만하다. 다만 기사 자체는 조직/인력 이동 및 사업 전략에 초점이 맞춰져 있어 공정 기술 자체를 직접 다루지는 않는다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "소자",
+        "AI반도체",
+        "경쟁사동향"
+      ],
+      "ai_processed": true
     },
     {
       "title": "에이전트 AI 시대 국가안보…\"모델 성능보다 안정적 운용 중요\"",
       "url": "https://zdnet.co.kr/view/?no=20260823112056",
       "source": "ZDNet Korea",
       "category": "기사",
-      "published_at": "2026-08-23T02:20:56+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T11:20:56+09:00",
+      "summary": "이 기사는 AI 주권을 모델 보유가 아닌 운용 능력으로 확장해야 한다는 국가안보 전략 보고서로, 반도체 공정기술과 직접적 연관은 적지만 메모리 반도체를 AI 경쟁의 전략 자산으로 지목한 점이 주목된다. 특히 에이전트 AI 확산에 따른 데이터센터·연산 수요 증가는 향후 HBM 등 고성능 메모리 공정 개발 방향성과 투자 우선순위에 간접적 영향을 줄 수 있어, 산업 트렌드 파악 차원에서 참고할 만하다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "AI",
+        "메모리반도체"
+      ],
+      "ai_processed": true
     },
     {
       "title": "AI 혜택, 美 부유층·대도시 집중…\"지역·자산·소득 격차 확대\"",
       "url": "https://zdnet.co.kr/view/?no=20260823080449",
       "source": "ZDNet Korea",
       "category": "기사",
-      "published_at": "2026-08-23T01:30:01+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T10:30:01+09:00",
+      "summary": "이 기사는 AI 확산에 따른 미국·중국 내 지역·소득 격차 심화를 다룬 거시경제·사회 이슈로, 반도체 공정기술 자체와는 직접적인 관련이 없다. 다만 중국 허페이(창신메모리 소재지), 우한·쑤저우 등 AI 데이터센터용 메모리 반도체 생산 도시들의 성장세가 언급되어, 메모리 반도체 수요와 지역 산업 클러스터 동향을 간접적으로 파악할 수 있다는 점에서 시장 맥락 참고 자료로 볼 수 있다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "메모리 반도체 수요"
+      ],
+      "ai_processed": true
     },
     {
       "title": "[안광섭 AI 진테제] AI지원 韓中日 다른 접근...\"더 줄까\"에서 벗어나야",
       "url": "https://zdnet.co.kr/view/?no=20260823101657",
       "source": "ZDNet Korea",
       "category": "기타",
-      "published_at": "2026-08-23T01:16:57+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T10:16:57+09:00",
+      "summary": "이 기사는 한국·일본·대만의 AI 산업 정부 지원 방식 차이를 다루며, 반도체 공정기술과는 직접적 연관성이 낮지만 국가 AI 인프라 정책(국가AI컴퓨팅센터, 국산 NPU 의무화 등)이 데이터센터용 반도체 수요 및 국내 팹리스(NPU) 생태계에 간접적 영향을 줄 수 있다는 점에서 참고할 만하다. 특히 국산 NPU 의무 조항이 오히려 사업 지연을 초래한 사례는 메모리·비메모리 반도체 수요처인 AI 인프라 정책의 방향성을 이해하는 데 시사점을 준다. 다만 공정기술 자체(미세공정, 소자구조, 장비 등)에 대한 내용은 없어 직무 관련성은 제한적이다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "AI 반도체 수요"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "에스켐, OLED 공통층 매출 122% 급증…반도체 소재 성과도 기대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61146",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T14:44:51+09:00",
+      "summary": "에스켐은 OLED 소재 기업이지만 신사업으로 반도체 소재를 개발 중이며, 파일럿 생산을 마치고 양산 평가 단계에 진입해 4분기 양산 공급을 앞두고 있다. 공정기술 직무 관점에서는 국내 중소 소재기업의 반도체 소재 국산화·양산화 동향을 파악할 수 있는 사례로, 향후 공정에 투입될 신규 소재 후보군 및 소재-공정 밸류체인 변화를 모니터링하는 데 참고할 만하다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "소재",
+        "시장",
+        "OLED",
+        "반도체 소재 국산화"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "월덱스, DGIST와 산학협력 MOU 체결",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61154",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T14:33:33+09:00",
+      "summary": "월덱스가 DGIST와 산학협력을 통해 AI 기반 제조 품질 고도화 및 차세대 선단 공정용 실리콘 부품 개발에 나선다는 소식이다. 식각 공정용 부품 업체가 AI 분석으로 고난도 공정 난제를 해결하려는 시도는, 공정기술 직무 관점에서 소재/부품 업체와 AI 기반 공정 최적화가 결합되는 산업 트렌드를 보여주는 사례로 참고할 만하다. 다만 삼성전자 메모리 공정기술 자체를 직접 다루기보다는 협력사의 부품 R&D 및 산학협력 동향에 가깝다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "공정",
+        "장비",
+        "소재/부품",
+        "AI 활용",
+        "산학협력"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "LG전자, 원격제어 인덕션 시장 합류…“ 20만대 실증”",
+      "url": "https://www.etnews.com/20260821000107",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-08-23T16:00:00+09:00",
+      "summary": "이 기사는 LG전자와 삼성전자의 가전(인덕션) 원격제어 스마트홈 기능 경쟁에 관한 내용으로, 반도체 공정기술과는 직접적인 관련이 없다. 다만 IoT 가전 확산은 장기적으로 관련 센서·통신 반도체 수요에 간접적 영향을 줄 수 있으나, 공정기술 직무 관점에서 주목할 내용은 아니다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "가전",
+        "IoT"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "30만전자 탈환 앞뒀는데…800만 삼성 개미들, 역대 최대 주주환원에 발목?",
+      "url": "https://www.etnews.com/20260823000053",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-08-23T13:46:47+09:00",
+      "summary": "이 기사는 삼성전자의 주주환원 정책과 주가 변동에 관한 내용으로, 반도체 공정기술 자체와는 직접적인 관련이 없다. 다만 공정기술 직무 준비생 입장에서는 회사의 재무 전략이 향후 R&D 및 설비투자(CAPEX) 여력에 어떤 영향을 미칠 수 있는지 간접적으로 참고할 만하다. 자사주 매입·소각 계획 부재가 시장에 미친 영향은 회사의 투자 우선순위를 가늠하는 데 참고자료가 될 수 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "기업재무",
+        "주가"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "삼전닉스 반등에도 개미들은 불신…코스피 회전율·거래량 연중 최저",
+      "url": "https://www.etnews.com/20260823000039",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-08-23T11:40:00+09:00",
+      "summary": "이 기사는 삼성전자·SK하이닉스 주가 반등과 관련된 증시 거래동향을 다루는 내용으로, 공정기술 자체와는 무관한 주식시장 투자심리 분석 기사이다. 반도체 공정/소자/장비 기술 트렌드나 경쟁사 기술 동향에 대한 정보가 없어 공정기술 직무 준비생 입장에서 참고할 실질적 함의는 거의 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장"
+      ],
+      "ai_processed": true
     },
     {
       "title": "바이브컴퍼니 'VAIV KMS', 온톨로지 RAG 기능 추가",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61232",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-23T13:07:17+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T22:07:17+09:00",
+      "summary": "이 기사는 AI 기업의 지식관리시스템(KMS)에 온톨로지 기반 RAG 기술을 결합한 소프트웨어 업데이트 소식으로, 반도체 공정기술과는 직접적인 관련이 없다. 다만 AI 기반 데이터 관리 및 검색 기술은 향후 반도체 공정 데이터 분석이나 지식 관리 시스템에 참고 사례가 될 수 있는 정도의 간접적 의미만 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "IT서비스",
+        "AI",
+        "소프트웨어"
+      ],
+      "ai_processed": true
     },
     {
       "title": "쿠콘, 2분기 매출·영업익 성장",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61231",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-23T13:06:30+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-23T22:06:30+09:00",
+      "summary": "이 기사는 비즈니스 데이터 플랫폼 기업 쿠콘의 2분기 실적 발표로, 금융 데이터·페이먼트 서비스 관련 내용이며 반도체 공정기술과는 직접적인 연관이 없다. 삼성전자 메모리 사업부 공정기술 직무 준비생 입장에서는 참고할 기술적, 산업적 시사점이 거의 없는 기사이다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "기타산업"
+      ],
+      "ai_processed": true
     },
     {
       "title": "삼성전자, 올해 최대 110조원 주주환원...국내 기업 첫 100조 돌파",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61226",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T09:08:15+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-21T18:08:15+09:00",
+      "summary": "삼성전자가 국내 기업 최초로 100조원을 넘는 최대 110조원 규모의 주주환원을 발표했으며, 이는 기술 개발보다는 재무·주주가치 관련 경영 이슈이다. 공정기술 직무 관점에서는 직접적인 공정/소자 기술 내용은 없지만, 대규모 현금 배당과 자사주 매입이 향후 R&D 및 설비투자 여력에 어떤 영향을 미칠지 간접적으로 살펴볼 필요가 있다. 취준생 입장에서는 회사의 재무 건전성과 투자 여력을 파악하는 참고자료 정도로 활용 가능하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "경영"
+      ],
+      "ai_processed": true
     },
     {
       "title": "농심그룹, 구글워크스페이스 기반 AX 체계 마련",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61225",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T09:03:52+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-21T18:03:52+09:00",
+      "summary": "이 기사는 농심그룹이 클라우드 기반 협업 툴(구글워크스페이스)을 도입해 업무 프로세스를 디지털 전환한 사례로, 반도체 공정기술과는 직접적 연관성이 없다. 반도체 소자·공정·장비 기술 트렌드나 메모리 시장 동향과 무관한 일반 기업 IT/업무 혁신 뉴스이다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "기타",
+        "IT서비스"
+      ],
+      "ai_processed": true
     },
     {
       "title": "텐센트, 넷마블 주식 매각…방준혁 지분 38%로 확대",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61221",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T09:02:40+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-21T18:02:40+09:00",
+      "summary": "이 기사는 텐센트의 넷마블 지분 매각과 방준혁 의장의 지배력 강화라는 게임업계 지분 구조 변화를 다루고 있어, 반도체 공정기술이나 소자·장비 기술과는 직접적인 관련이 없다. 다만 게임 산업은 GPU·메모리 수요와 간접적으로 연관될 수 있으나, 이 기사 자체는 공정기술 직무 준비생에게 참고할 기술적 함의가 거의 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "기업지배구조",
+        "게임산업"
+      ],
+      "ai_processed": true
     },
     {
       "title": "LIG D&A \"1.7조 전자전기 체계개발, 뇌물 사건과 무관\"",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61218",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T08:58:58+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-21T17:58:58+09:00",
+      "summary": "이 기사는 방위산업체 LIG D&A의 뇌물 혐의 및 방위사업 계약 관련 법적 이슈를 다루는 내용으로, 반도체 공정기술과는 직접적인 관련이 없다. 삼성전자 메모리 사업부 공정기술 직무 준비생 입장에서는 공정, 소자, 장비 등 기술 트렌드와 무관한 방산 비리 이슈로 참고할 필요성이 낮다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "시장"
+      ],
+      "ai_processed": true
     },
     {
       "title": "야스, 정광호 대표 선임…창업주 5년 만에 경영 복귀",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61219",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T08:42:06+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "쿨스, 유리기판 구멍 하부부터 채우는 'SPEA' 도금 기술 공개",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61215",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-08-21T08:07:58+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-08-21T17:42:06+09:00",
+      "summary": "야스는 OLED 및 반도체 장비(증착 관련) 분야에서 활동하는 국내 장비업체로, 이번 기사는 경영진 교체라는 지배구조 이슈를 다루고 있어 공정기술 자체와의 직접적 연관성은 낮다. 다만 국내 반도체/디스플레이 장비 생태계의 주요 플레이어 동향 파악 차원에서 참고할 만하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "장비",
+        "기업동향"
+      ],
+      "ai_processed": true
     },
     {
       "title": "해치텍, 오는 25일 코스닥 상장...230억원 조달",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61214",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T08:03:51+00:00",
+      "published_at": "2026-08-21T17:03:51+09:00",
+      "summary": "센서 집적회로(IC) 팹리스 업체 해치텍의 코스닥 상장 소식으로, 자금 조달을 통한 R&D 및 사업 확장 가능성을 시사하는 시장 뉴스다. 다만 메모리 공정기술 직무와는 직접적 연관성이 낮은 시황성 기사로, 공정/소자/장비 기술 트렌드와는 거리가 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "[기자수첩] AI 완성품 품평회가 된 '독파모' 평가",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61207",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T16:09:15+09:00",
+      "summary": "이 기사는 정부의 독자 AI 파운데이션 모델(독파모) 평가 방식과 논란을 다루는 정책·산업 이슈로, 반도체 공정기술 직무와는 직접적인 연관성이 낮다. 다만 국내 AI 모델 경쟁력 강화 정책은 향후 AI 반도체 수요 및 메모리(HBM 등) 시장 성장과 간접적으로 연결될 수 있어 참고할 만하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "시장",
+        "AI"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "삼성전자, IDEA·레드닷서 57개 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61204",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T16:00:00+09:00",
+      "summary": "이 기사는 삼성전자의 제품/브랜드 디자인 어워드 수상 소식으로, 가전 및 UX 디자인, 접근성 등 마케팅·디자인 영역에 초점이 맞춰져 있다. 반도체 공정기술이나 소자, 장비와는 직접적인 관련이 없어 공정기술 직무 준비생 입장에서는 참고할 내용이 거의 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "브랜드",
+        "디자인",
+        "기타"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "퀄컴, 신임 총괄 부사장으로 모토로라 사장 영입",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61196",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T14:04:27+09:00",
+      "summary": "퀄컴이 모토로라 모빌리티 사장을 신임 총괄 부사장(EVP)으로 영입해 AI 디바이스 사업 전반을 맡기는 인사 소식으로, 공정기술 직무와 직접적인 기술 연관성은 낮다. 다만 퀄컴의 AI 스마트폰·PC·XR 전략 강화는 향후 모바일 AP 및 이를 지원하는 고성능·저전력 메모리(LPDDR, HBM 등) 수요 확대와 연결될 수 있어 시장 동향 참고 자료로서 의미가 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "인사",
+        "AI 디바이스"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "두산에너빌리티, 9300억 오만 가스복합발전소 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61189",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T14:02:04+09:00",
+      "summary": "이 기사는 두산에너빌리티의 오만 가스복합발전소 수주 소식으로, 반도체 공정기술과는 직접적인 관련이 없는 발전 플랜트 산업 뉴스이다. 다만 반도체 팹 운영에 필요한 전력 인프라나 에너지 산업 동향 정도로 간접적인 참고는 가능하나 공정기술 직무 준비와는 무관하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "에너지",
+        "비반도체"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "스탠다드에너지, 한양대에 바나듐이온 배터리 ESS 설치",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61192",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T14:01:59+09:00",
+      "summary": "이 기사는 바나듐이온 배터리 기반 ESS 설치 사례로, 반도체 공정기술과는 직접적인 관련이 없는 에너지저장장치 산업 소식이다. 다만 반도체 팹 운영에 필요한 에너지 인프라나 ESS 트렌드를 참고할 수 있는 간접적 자료 정도의 가치만 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "에너지",
+        "ESS"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "인텔, \"글로벌 로보틱스 준비 미흡하다\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61179",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T14:01:25+09:00",
+      "summary": "인텔의 로보틱스 시장 전망 조사 결과로, 로봇 도입 확산과 자동화 가속화 추세를 보여준다. 반도체 공정기술 직무와는 직접적 연관성이 낮으나, 향후 팹 자동화나 로봇 기반 공정 장비 수요 증가라는 측면에서 간접적으로 참고할 만한 시장 동향이다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "로보틱스"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "KAI, 국가안보전략연구원과 방산 수출 정책 협력",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61188",
+      "source": "디일렉",
+      "category": "기타",
+      "published_at": "2026-08-21T13:57:51+09:00",
+      "summary": "이 기사는 방산업체 KAI와 국가안보전략연구원 간 수출 정책 협력 MOU로, 반도체 공정기술과는 무관한 방위산업 분야의 정책·수출 전략 뉴스이다. 삼성전자 메모리 사업부 공정기술 직무 준비생 입장에서 참고할 기술적, 공정적 함의는 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "방산",
+        "시장"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "스마일게이트, ‘이클립스’ 캐릭터 사전 생성 조기 마감",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61194",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T13:21:38+09:00",
+      "summary": "이 기사는 게임사 스마일게이트의 신작 MMORPG 사전 생성 이벤트 흥행 소식으로, 반도체 공정기술과는 직접적인 관련이 없다. 다만 게임 콘텐츠 흥행은 GPU·메모리 등 게이밍 디바이스 수요에 간접적인 영향을 줄 수 있으나, 공정기술 직무 관점에서 주목할 기술적 함의는 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "게임산업"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "KISIA·과기정통부, ‘2026 사이버 가디언즈 CMX 대회’ 성료",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61185",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T13:20:19+09:00",
+      "summary": "이 기사는 고등학생 대상 사이버보안 대회(화이트해커 양성) 관련 소식으로, 반도체 공정기술과는 직접적인 연관이 없다. 정보보호·보안 인력 양성이라는 산업 정책적 측면에서만 반도체 산업과 간접적으로 연결될 뿐, 공정/소자/장비 기술 트렌드와는 무관하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "인력양성",
+        "정보보안"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "LG전자, IDEA 2026서 17개 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61181",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T12:58:03+09:00",
+      "summary": "LG전자가 국제 디자인 공모전 IDEA 2026에서 다수의 상을 수상했다는 소식으로, TV, 히트펌프, 모니터 등 완제품 디자인 관련 내용이다. 반도체 공정기술이나 소자, 장비 기술과는 직접적인 연관성이 없어 공정기술 직무 준비생에게는 참고할 정보가 거의 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "기타",
+        "가전",
+        "디자인"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "카카오 'AI'와 '투자'로 쪼갠다…인적 분할 결의",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61193",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T11:50:07+09:00",
+      "summary": "이 기사는 카카오의 지주사 성격 인적 분할(AI·투자 부문 분리)에 관한 것으로, 반도체 공정기술과 직접적 연관은 없다. 다만 AI 사업 강화 전략은 향후 AI 서버·데이터센터용 고성능 메모리(HBM 등) 수요 확대와 간접적으로 연결될 수 있어 시장 동향 참고 수준의 의미만 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "AI",
+        "기업구조개편"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "코웨이, IDEA 디자인 어워드 17년 연속 수상",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61184",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-21T11:03:19+09:00",
+      "summary": "이 기사는 코웨이의 가전제품(공기청정기, 제습기) 디자인 수상 소식으로, 반도체 공정기술이나 소자, 장비와는 직접적인 연관이 없다. 삼성전자 메모리 사업부 공정기술 직무 준비생 입장에서는 참고할 기술적 시사점이 거의 없는 일반 소비자 가전 뉴스에 해당한다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "가전",
+        "디자인",
+        "비반도체"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "민간 인증기관 해킹에 청와대 인사 정보 유출…경찰 수사 중",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61174",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T18:01:04+09:00",
+      "summary": "이 기사는 민간 인증기관 서버 해킹으로 인한 개인정보 유출 사건으로, 반도체 공정기술과는 직접적인 관련이 없는 보안·정보유출 이슈를 다루고 있다. 공정기술 직무 준비생 입장에서는 참고할 기술적 트렌드나 공정/소자/장비 관련 시사점이 없어 우선순위가 낮은 기사다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "보안",
+        "정책"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "개인정보법 개정안 본회의 통과…AI 개발에 개인정보 활용 가능",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61172",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T17:57:31+09:00",
+      "summary": "이번 개정안은 AI 개발 시 원본 개인정보 활용을 제한적으로 허용하는 법제도 변화로, 반도체 공정기술 직무와는 직접적 연관성이 낮다. 다만 AI 기술 발전 가속화가 향후 메모리 수요(HBM 등 AI 반도체용 고성능 메모리) 증가로 이어질 수 있다는 점에서 간접적인 산업 맥락 정보로 참고할 수 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "AI",
+        "시장"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "한국요꼬가와전기, 고전압 파워아날라이저 'WT1500' 출시",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61171",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T17:12:10+09:00",
+      "summary": "이 기사는 전기차, ESS, 태양광 등 전력전자 분야의 고전압 계측 장비 신제품 출시 소식으로, 반도체 메모리 공정기술과 직접적인 연관성은 낮다. 다만 전력 반도체나 계측 장비 트렌드를 참고하는 수준에서 간접적으로 관련될 수 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "장비",
+        "시장"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "삼성D, 플렉시블 OLED 순증 물량 65% 독식",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61166",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T17:07:28+09:00",
+      "summary": "삼성디스플레이의 플렉시블 OLED 출하 증가는 디스플레이 산업 동향으로, 메모리 반도체 공정기술과는 직접적인 연관성이 낮다. 다만 삼성그룹 전체의 사업 성과 및 스마트폰 시장 호조가 메모리 수요(모바일 D램/낸드)에 간접적으로 긍정적 영향을 줄 수 있다는 점에서 시장 맥락 파악 차원에서 참고할 만하다. 공정기술 직무 관점에서는 OLED 자체 공정보다는 전방산업 수요 동향으로 이해하면 된다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "디스플레이",
+        "OLED"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "정부, '독파모' 평가 세부지표 공개…모티프 탈락 논란은 여전",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61169",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T16:59:27+09:00",
+      "summary": "이 기사는 국내 독자 AI 파운데이션 모델 선정을 둘러싼 정부 평가 방식과 논란을 다루고 있어, 반도체 공정기술 직무와는 직접적 연관성이 낮다. 다만 AI 모델 경쟁 심화는 향후 AI 반도체(HBM 등) 수요 증가와 연결될 수 있어 시장 동향 참고 수준의 간접적 의미만 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "시장",
+        "AI"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "가온전선, 美 AI 데이터센터에 2000억 버스덕트 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61170",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T16:59:06+09:00",
+      "summary": "이 기사는 가온전선(LS전선 자회사)이 미국 AI 데이터센터에 전력 공급용 버스덕트를 대규모 공급한다는 전력인프라 시장 뉴스로, 반도체 공정기술 자체와는 직접적 관련이 없다. 다만 AI 데이터센터 확장은 향후 HBM 등 고성능 메모리 수요 증가와 연결되는 산업 전반의 맥락으로 참고할 수 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "AI 데이터센터",
+        "전력인프라"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "카카오게임즈, 신작 ‘도깨비의 세계’ 10월 출시…無직업·無PK로 차별화",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61165",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T16:02:33+09:00",
+      "summary": "이 기사는 카카오게임즈의 신작 게임 출시 소식으로, 게임 콘텐츠 및 IP 전략을 다루고 있으며 반도체 공정기술과는 직접적 연관이 없다. 다만 게임 산업은 GPU·메모리 수요와 간접적으로 연결될 수 있으나, 이 기사 자체는 공정/소자/장비 기술 내용을 전혀 포함하지 않는다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "게임산업"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "SK이노베이션, 울산CLX서 첫 해상급유 훈련 지원",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61164",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T15:37:49+09:00",
+      "summary": "이 기사는 SK이노베이션의 정유·유류 공급 관련 군사 훈련 지원 소식으로, 반도체 공정기술과는 직접적인 관련이 없다. 삼성전자 메모리 사업부 공정기술 직무 준비생 입장에서 참고할 만한 기술 트렌드나 공정 정보가 전혀 포함되어 있지 않다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "에너지",
+        "비반도체",
+        "정유"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "SK엔무브, 美 HF싱클레어 뚫었다…고급 윤활기유 장기 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61163",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T15:36:53+09:00",
+      "summary": "이 기사는 SK엔무브의 윤활기유(그룹Ⅲ) 사업 관련 소식으로, 반도체 공정기술과는 직접적인 연관이 없다. 자동차 엔진오일 원료 공급 계약에 관한 내용으로, 삼성전자 메모리 공정기술 직무 준비생이 참고할 기술적 함의는 거의 없다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "비반도체"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "배터리 장비사 5곳 흑자전환…엠오티·엔시스 신사업 확대",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61160",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T15:27:47+09:00",
+      "summary": "이 기사는 배터리 장비사들의 실적 동향과 사업 다각화(ESS 전환, 바이오·방산 진출)를 다루고 있어 반도체 공정기술과 직접적인 연관성은 낮다. 다만 장비 산업 전반의 발주 사이클과 업황 회복 패턴을 파악하는 데 참고할 수 있어 간접적인 시사점은 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "장비"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "태블로 \"보는 데이터에서 실행하는 데이터로\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61162",
+      "source": "디일렉",
+      "category": "기타",
+      "published_at": "2026-08-20T15:10:45+09:00",
+      "summary": "이 기사는 세일즈포스 태블로의 AI 기반 데이터 분석 플랫폼 컨퍼런스 소식으로, 반도체 공정기술이나 소자·장비 기술과는 직접적인 연관성이 없다. 다만 데이터 분석 및 AI 에이전트 기술 트렌드는 향후 반도체 팹 내 공정 데이터 분석 자동화나 스마트팩토리 구축에 참고될 수 있는 간접적 배경 지식 정도로 볼 수 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "IT서비스"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "원스토어, 여름 막바지 ‘30% 포인트백’",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61158",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T14:38:44+09:00",
+      "summary": "이 기사는 원스토어의 게임 결제 포인트백 마케팅 이벤트를 다루는 내용으로, 반도체 공정기술과는 전혀 관련이 없다. 앱스토어 프로모션 및 콘텐츠 유통 관련 소식으로, 공정/소자/장비 기술 트렌드와 무관하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "기타",
+        "무관"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "한국머크, IMID서 '머크 어워드' 수상자 발표",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61149",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-08-20T14:25:44+09:00",
+      "summary": "이 기사는 한국머크가 디스플레이 및 광전자 기술 분야 학술 성과를 기리는 시상식 소식으로, 메모리 반도체 공정기술과의 직접적 연관성은 낮다. 다만 머크는 반도체 소재/공정용 케미컬을 공급하는 주요 업체이므로 회사 동향 파악 차원에서 참고할 수 있는 정도이다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "기타"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "서플러스글로벌, 세미마켓 위챗 미니프로그램 스토어 개설",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61152",
+      "source": "디일렉",
+      "category": "기타",
+      "published_at": "2026-08-20T14:18:35+09:00",
+      "summary": "서플러스글로벌이 중고 반도체 장비·부품 거래 플랫폼 '세미마켓'의 중국향 접점을 위챗 미니프로그램으로 확대하는 소식으로, 공정기술 자체보다는 유통·마케팅 채널 확장에 관한 내용이다. 다만 반도체 장비·부품 중고시장 동향과 중국 반도체 장비 생태계(CSEAC 전시회 등)를 파악하는 데 참고할 수 있어 산업 동향 이해 차원에서 가볍게 참고할 만하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "장비"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "쿨스, 유리기판 구멍 하부부터 채우는 'SPEA' 도금 기술 공개",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=61215",
+      "source": "디일렉",
+      "category": "기타",
+      "published_at": "2026-08-21T17:07:58+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -259,7 +851,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61213",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T07:55:39+00:00",
+      "published_at": "2026-08-21T16:55:39+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -270,40 +862,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61212",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T07:51:18+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "앱솔릭스, 4000억원 유증…SKC 조달 자금 유리기판에 본격 투입",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61211",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T07:12:09+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "[기자수첩] AI 완성품 품평회가 된 '독파모' 평가",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61207",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T07:09:15+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "삼성전자, IDEA·레드닷서 57개 수상",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61204",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T07:00:00+00:00",
+      "published_at": "2026-08-21T16:51:18+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -314,128 +873,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61202",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-21T05:49:01+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "티씨케이, 수주잔고 역대 최대…6개월 이상 주문도 등장",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61178",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T05:36:19+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "퀄컴, 신임 총괄 부사장으로 모토로라 사장 영입",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61196",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T05:04:27+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "두산에너빌리티, 9300억 오만 가스복합발전소 수주",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61189",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T05:02:04+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "스탠다드에너지, 한양대에 바나듐이온 배터리 ESS 설치",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61192",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T05:01:59+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "인텔, \"글로벌 로보틱스 준비 미흡하다\"",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61179",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T05:01:25+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "KAI, 국가안보전략연구원과 방산 수출 정책 협력",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61188",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-08-21T04:57:51+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "스마일게이트, ‘이클립스’ 캐릭터 사전 생성 조기 마감",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61194",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T04:21:38+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "KISIA·과기정통부, ‘2026 사이버 가디언즈 CMX 대회’ 성료",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61185",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T04:20:19+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "LG전자, IDEA 2026서 17개 수상",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61181",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T03:58:03+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "카카오 'AI'와 '투자'로 쪼갠다…인적 분할 결의",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61193",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T02:50:07+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "코웨이, IDEA 디자인 어워드 17년 연속 수상",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61184",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-21T02:03:19+00:00",
+      "published_at": "2026-08-21T14:49:01+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -446,7 +884,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61176",
       "source": "디일렉",
       "category": "기타",
-      "published_at": "2026-08-20T22:38:55+00:00",
+      "published_at": "2026-08-21T07:38:55+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -457,84 +895,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61177",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-20T09:27:05+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "프라임마스, CXL 솔루션 'JBOM'으로 2800억원 매출 도전",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61173",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T09:12:03+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "민간 인증기관 해킹에 청와대 인사 정보 유출…경찰 수사 중",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61174",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T09:01:04+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "개인정보법 개정안 본회의 통과…AI 개발에 개인정보 활용 가능",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61172",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T08:57:31+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "한국요꼬가와전기, 고전압 파워아날라이저 'WT1500' 출시",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61171",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T08:12:10+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "삼성D, 플렉시블 OLED 순증 물량 65% 독식",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61166",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T08:07:28+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "정부, '독파모' 평가 세부지표 공개…모티프 탈락 논란은 여전",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61169",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T07:59:27+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "가온전선, 美 AI 데이터센터에 2000억 버스덕트 공급",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61170",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T07:59:06+00:00",
+      "published_at": "2026-08-20T18:27:05+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -545,51 +906,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61168",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-20T07:58:40+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "카카오게임즈, 신작 ‘도깨비의 세계’ 10월 출시…無직업·無PK로 차별화",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61165",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T07:02:33+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "SK하이닉스, CPO 청사진 공개…\"메모리도 빛으로 연결\"",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61167",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T06:45:48+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "SK이노베이션, 울산CLX서 첫 해상급유 훈련 지원",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61164",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T06:37:49+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "SK엔무브, 美 HF싱클레어 뚫었다…고급 윤활기유 장기 공급",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61163",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T06:36:53+00:00",
+      "published_at": "2026-08-20T16:58:40+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -600,73 +917,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61161",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-20T06:33:55+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "배터리 장비사 5곳 흑자전환…엠오티·엔시스 신사업 확대",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61160",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T06:27:47+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "주성엔지니어링, 흑자 턴어라운드…2300억 수주잔고로 하반기 '맑음'",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61156",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T06:21:07+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "태블로 \"보는 데이터에서 실행하는 데이터로\"",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61162",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-08-20T06:10:45+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "에스켐, OLED 공통층 매출 122% 급증…반도체 소재 성과도 기대",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61146",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T05:44:51+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "원스토어, 여름 막바지 ‘30% 포인트백’",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61158",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T05:38:44+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "월덱스, DGIST와 산학협력 MOU 체결",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61154",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T05:33:33+00:00",
+      "published_at": "2026-08-20T15:33:55+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
@@ -677,29 +928,7 @@
       "url": "https://www.thelec.kr/news/articleView.html?idxno=61150",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-08-20T05:28:12+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "한국머크, IMID서 '머크 어워드' 수상자 발표",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61149",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-08-20T05:25:44+00:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "서플러스글로벌, 세미마켓 위챗 미니프로그램 스토어 개설",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=61152",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-08-20T05:18:35+00:00",
+      "published_at": "2026-08-20T14:28:12+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
