@@ -1,11 +1,12 @@
+import "dotenv/config";
 import { mkdir, writeFile } from "node:fs/promises";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc.js";
 import { collectAll } from "./collect/index.js";
-
-dayjs.extend(utc);
 import { summarizeAndScore } from "./ai/summarize.js";
 import type { NewsData, NewsItem } from "./types.js";
+
+dayjs.extend(utc);
 
 const DATA_DIR = new URL("../data/", import.meta.url);
 const LOGS_DIR = new URL("../logs/", import.meta.url);

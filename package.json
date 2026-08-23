@@ -12,6 +12,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.1",
     "dayjs": "^1.11.13",
+    "dotenv": "^17.4.2",
     "rss-parser": "^3.13.0",
     "zod": "^3.24.1"
   },
