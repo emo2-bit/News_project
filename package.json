@@ -1,0 +1,23 @@
+{
+  "name": "semiconductor-news-scrap",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "collect:test": "tsx scripts/collect/test-sources.ts",
+    "pipeline": "tsx scripts/pipeline.ts",
+    "dev:web": "node scripts/copy-data.mjs && npm --prefix web run dev",
+    "build:web": "node scripts/copy-data.mjs && npm --prefix web run build"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "dayjs": "^1.11.13",
+    "rss-parser": "^3.13.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
