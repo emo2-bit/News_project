@@ -45,16 +45,21 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
+          COMMIT_MSG="chore: daily news update $(date -u +%Y-%m-%d)"
+          git commit -m "$COMMIT_MSG"
 
           for attempt in 1 2 3 4 5; do
             if git push; then
               echo "push 성공"
               exit 0
             fi
-            echo "push 거부됨 (시도 $attempt/5) — 원격 변경분을 rebase 후 재시도합니다"
+
+            echo "push 거부됨 (시도 $attempt/5) — data/news.json·logs/는 매번 새로 생성되는 " \
+                 "파일이라 병합 대신 최신 실행 결과로 덮어써서 재시도합니다"
             git fetch origin "$GITHUB_REF_NAME"
-            git rebase "origin/$GITHUB_REF_NAME"
+            git reset --soft "origin/$GITHUB_REF_NAME"
+            git add data/news.json logs/
+            git commit -m "$COMMIT_MSG"
             sleep $((attempt * 5))
           done
 
