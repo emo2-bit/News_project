@@ -3,6 +3,11 @@ import { z } from "zod";
 import type { CollectedItem } from "../collect/index.js";
 import type { NewsItem } from "../types.js";
 import { SYSTEM_PROMPT } from "./prompt.js";
+import { truncate } from "../collect/util.js";
+
+// 입력 토큰(=비용) 통제용. 키워드 필터링은 전체 본문 기준으로 이미 끝난 뒤이므로
+// 여기서 잘라도 관련도 판단에 필요한 핵심 내용은 대부분 앞부분에 남아있다.
+const MAX_DESCRIPTION_LENGTH = 300;
 
 const MODEL = process.env.ANTHROPIC_MODEL ?? "claude-sonnet-5";
 
@@ -70,7 +75,7 @@ export async function summarizeAndScore(item: CollectedItem): Promise<NewsItem> 
       messages: [
         {
           role: "user",
-          content: `제목: ${item.title}\n설명: ${item.description}\n출처: ${item.source}`,
+          content: `제목: ${item.title}\n설명: ${truncate(item.description, MAX_DESCRIPTION_LENGTH)}\n출처: ${item.source}`,
         },
       ],
     });

@@ -4,6 +4,7 @@ import { fetchZdnetKorea } from "./sources/zdnetkorea.js";
 import { fetchThelec } from "./sources/thelec.js";
 import { isSemiconductorRelated } from "./keywords.js";
 import { classifyItem } from "./classify.js";
+import { dedupeBySimilarTitle } from "./dedupe.js";
 
 export interface CollectedItem extends RawItem {
   category: Category;
@@ -19,24 +20,24 @@ export interface SourceStat {
 export interface CollectResult {
   items: CollectedItem[];
   sourceStats: SourceStat[];
+  dedupedCount: number;
 }
 
 interface SourceDef {
   name: string;
   fetch: () => Promise<RawItem[]>;
-  requiresKeywordFilter: boolean;
 }
 
-// 전자신문/ZDNet은 종합지 성격이라 키워드 필터가 필요하고,
-// 디일렉은 반도체/디스플레이/배터리 전문지라 필터 없이 AI 스코어링에 맡긴다.
+// AI 호출 비용을 통제하기 위해 세 소스 모두 키워드 필터를 거친다
+// (디일렉도 전문지이긴 하지만 반도체 외 기사가 섞여 있어 예외를 두지 않는다).
 const SOURCES: SourceDef[] = [
-  { name: "전자신문", fetch: fetchEtnews, requiresKeywordFilter: true },
-  { name: "ZDNet Korea", fetch: fetchZdnetKorea, requiresKeywordFilter: true },
-  { name: "디일렉", fetch: fetchThelec, requiresKeywordFilter: false },
+  { name: "전자신문", fetch: fetchEtnews },
+  { name: "ZDNet Korea", fetch: fetchZdnetKorea },
+  { name: "디일렉", fetch: fetchThelec },
 ];
 
 export async function collectAll(): Promise<CollectResult> {
-  const items: CollectedItem[] = [];
+  const filteredBySource: RawItem[][] = [];
   const sourceStats: SourceStat[] = [];
 
   const results = await Promise.allSettled(SOURCES.map((s) => s.fetch()));
@@ -45,6 +46,7 @@ export async function collectAll(): Promise<CollectResult> {
     const source = SOURCES[i];
 
     if (result.status === "rejected") {
+      filteredBySource.push([]);
       sourceStats.push({
         source: source.name,
         fetched: 0,
@@ -55,14 +57,11 @@ export async function collectAll(): Promise<CollectResult> {
     }
 
     const raw = result.value;
-    const filtered = source.requiresKeywordFilter
-      ? raw.filter((item) => isSemiconductorRelated(`${item.title} ${item.description}`))
-      : raw;
+    const filtered = raw.filter((item) =>
+      isSemiconductorRelated(`${item.title} ${item.description}`)
+    );
 
-    for (const item of filtered) {
-      items.push({ ...item, category: classifyItem(item) });
-    }
-
+    filteredBySource.push(filtered);
     sourceStats.push({
       source: source.name,
       fetched: raw.length,
@@ -71,5 +70,9 @@ export async function collectAll(): Promise<CollectResult> {
     });
   });
 
-  return { items, sourceStats };
+  const merged = filteredBySource.flat();
+  const deduped = dedupeBySimilarTitle(merged);
+  const items = deduped.map((item) => ({ ...item, category: classifyItem(item) }));
+
+  return { items, sourceStats, dedupedCount: merged.length - deduped.length };
 }

@@ -31,3 +31,13 @@ export function stripHtml(text: string | undefined): string {
     .replace(/\s+/g, " ")
     .trim();
 }
+
+/**
+ * AI 호출 비용을 통제하기 위해 본문을 고정 길이로 자른다.
+ * ZDNet Korea처럼 RSS description에 전체 기사 본문(수천 자)이 들어오는
+ * 소스가 있어서, 소스별 편차 없이 일정 길이로 맞춘다.
+ */
+export function truncate(text: string, maxLength = 300): string {
+  if (text.length <= maxLength) return text;
+  return text.slice(0, maxLength).trim() + "…";
+}

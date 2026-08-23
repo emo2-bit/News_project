@@ -12,7 +12,7 @@ const DATA_DIR = new URL("../data/", import.meta.url);
 const LOGS_DIR = new URL("../logs/", import.meta.url);
 
 async function run() {
-  const { items, sourceStats } = await collectAll();
+  const { items, sourceStats, dedupedCount } = await collectAll();
 
   console.log("=== 소스별 수집 결과 ===");
   for (const stat of sourceStats) {
@@ -22,6 +22,7 @@ async function run() {
       console.log(`- ${stat.source}: 수집 ${stat.fetched}건 → 필터 후 ${stat.keptAfterFilter}건`);
     }
   }
+  console.log(`- 매체 간 중복 제거: ${dedupedCount}건 제외`);
 
   const hasApiKey = Boolean(process.env.ANTHROPIC_API_KEY);
   console.log(
@@ -52,6 +53,7 @@ async function run() {
     collected_at: newsData.collected_at,
     total_items: newsItems.length,
     source_stats: sourceStats,
+    deduped_count: dedupedCount,
     ai_processed_count: aiProcessedCount,
     fallback_count: fallbackCount,
     high_relevance_ratio:
