@@ -1,13 +1,13 @@
 {
   "date": "2026-08-23",
-  "collected_at": "2026-08-24T06:25:40+09:00",
-  "total_items": 7,
+  "collected_at": "2026-08-24T07:51:54+09:00",
+  "total_items": 8,
   "source_stats": [
     {
       "source": "전자신문",
-      "fetched": 0,
-      "keptAfterFilter": 0,
-      "error": "Error: Request timed out after 60000ms"
+      "fetched": 30,
+      "keptAfterFilter": 2,
+      "error": null
     },
     {
       "source": "ZDNet Korea",
@@ -22,8 +22,8 @@
       "error": null
     }
   ],
-  "deduped_count": 0,
+  "deduped_count": 1,
   "ai_processed_count": 7,
-  "fallback_count": 0,
-  "high_relevance_ratio": 0.143
+  "fallback_count": 1,
+  "high_relevance_ratio": 0.125
 }
