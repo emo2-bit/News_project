@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-29",
+  "collected_at": "2026-08-30T07:05:38+09:00",
+  "total_items": 9,
+  "source_stats": [
+    {
+      "source": "전자신문",
+      "fetched": 17,
+      "keptAfterFilter": 0,
+      "error": null
+    },
+    {
+      "source": "ZDNet Korea",
+      "fetched": 30,
+      "keptAfterFilter": 2,
+      "error": null
+    },
+    {
+      "source": "디일렉",
+      "fetched": 50,
+      "keptAfterFilter": 7,
+      "error": null
+    }
+  ],
+  "deduped_count": 0,
+  "ai_processed_count": 8,
+  "fallback_count": 1,
+  "high_relevance_ratio": 0.222
+}
