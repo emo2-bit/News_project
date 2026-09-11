@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-11",
+  "collected_at": "2026-09-12T07:09:41+09:00",
+  "total_items": 5,
+  "source_stats": [
+    {
+      "source": "전자신문",
+      "fetched": 0,
+      "keptAfterFilter": 0,
+      "error": "Error: Request timed out after 60000ms"
+    },
+    {
+      "source": "ZDNet Korea",
+      "fetched": 30,
+      "keptAfterFilter": 2,
+      "error": null
+    },
+    {
+      "source": "디일렉",
+      "fetched": 50,
+      "keptAfterFilter": 4,
+      "error": null
+    }
+  ],
+  "deduped_count": 1,
+  "ai_processed_count": 4,
+  "fallback_count": 1,
+  "high_relevance_ratio": 0.2
+}
