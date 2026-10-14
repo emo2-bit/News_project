@@ -1,102 +1,50 @@
 {
-  "collected_at": "2026-10-13T11:49:57+09:00",
+  "collected_at": "2026-10-14T09:50:36+09:00",
   "items": [
     {
-      "title": "삼성전자, OCP서 AI 메모리·스토리지 혁신 청사진 공개",
-      "url": "https://www.etnews.com/20261013000024",
-      "source": "전자신문",
+      "title": "삼성전자 \"차세대 메모리 핵심은 속도·확장·영속\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63658",
+      "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-10-13T09:04:33+09:00",
-      "summary": "삼성전자가 OCP 글로벌 서밋에서 HBM, CXL, 차세대 SSD 등 AI 인프라용 메모리·스토리지 기술 전략을 공개했다. 공정기술 직무 관점에서는 HBM 적층 및 고속화, CXL 인터커넥트 구현을 위한 미세공정·패키징 기술 트렌드와 경쟁사 대비 삼성의 기술 방향성을 파악할 수 있는 중요한 사례다. 또한 메모리 용량·속도 향상을 위한 공정 혁신이 AI 시장 수요에 어떻게 대응하는지 이해하는 데 도움이 된다.",
-      "relevance_score": 4,
+      "published_at": "2026-10-14T08:06:54+09:00",
+      "summary": "삼성전자가 OCP 글로벌 서밋에서 속도·확장성·영속성을 축으로 한 차세대 메모리 전략(HBM5, 커스텀 HBM, zHBM, PIM 등)을 공개한 내용으로, AI 시대 메모리 기술 로드맵과 공정 난이도 상승 방향을 보여준다. 공정기술 직무 지원자 입장에서는 HBM 적층 공정, 커스텀 설계 대응, PIM 등 신개념 메모리 구조가 향후 공정 혁신의 핵심 축임을 파악할 수 있어 기술 트렌드 이해에 중요한 기사다.",
+      "relevance_score": 5,
       "relevant_tags": [
         "공정",
         "소자",
         "시장",
         "HBM",
-        "CXL",
-        "SSD",
-        "AI 반도체"
+        "차세대메모리"
       ],
       "ai_processed": true
     },
     {
-      "title": "반도체대전 14일 개막...삼성·SK, HBM 전시",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63572",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-10-12T17:15:04+09:00",
-      "summary": "반도체대전(SEDEX) 2026에서 삼성전자와 SK하이닉스가 HBM 등 차세대 메모리 기술을 전시한다는 소식으로, 공정기술 직무 준비생 입장에서는 업계가 집중하는 HBM·차세대 메모리 구조의 기술 트렌드와 경쟁사 동향을 파악할 수 있는 기회다. 다만 기사 자체는 전시회 개최 소식 위주로 구체적인 공정 기술 내용은 제한적이다.",
-      "relevance_score": 3,
-      "relevant_tags": [
-        "소자",
-        "시장",
-        "HBM",
-        "경쟁사 동향",
-        "전시회"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "ASML, 유지보수용 노광장비 부품값 10% 일괄 인상",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63515",
+      "title": "인텔·마이크론, 대만 소부장에 미국 투자 손짓",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=63646",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-10-10T09:37:29+09:00",
-      "summary": "ASML이 EUV·DUV 노광장비의 교체용 부품 가격을 10% 일괄 인상하면서 삼성전자 등 국내 팹의 장비 유지보수 비용 부담이 커지게 됐다. 공정기술 직무 입장에서는 노광 공정의 가동률 관리와 예방정비(PM) 비용 효율화, 부품 수급 전략이 더욱 중요해지는 이슈이며, 장비사와의 공급망 의존도 및 원가 구조를 이해하는 데 참고할 만하다.",
+      "published_at": "2026-10-14T08:05:47+09:00",
+      "summary": "인텔과 마이크론이 대만 소부장(소재·부품·장비) 기업에 미국 현지 투자 및 거점 설립을 요청하며, D램 등 메모리 생산을 미국 중심으로 재편하려는 움직임을 보이고 있다. 이는 미국 내 공급망 재배치(리쇼어링) 전략이 소재/장비 공급망 구조에도 영향을 미치는 사례로, 공정기술 직무 입장에서는 향후 미국 팹 증설과 연계된 소부장 수급 변화, 글로벌 공급망 리스크 관리 트렌드를 파악하는 데 참고할 만하다. 삼성전자 메모리 역시 미국 내 팹 운영과 소부장 조달 전략에 영향을 받을 수 있어 경쟁사 동향 모니터링 차원에서 의미가 있다.",
       "relevance_score": 3,
       "relevant_tags": [
+        "시장",
+        "정책",
         "장비",
-        "공정",
-        "EUV",
-        "DUV",
-        "시장",
         "공급망"
       ],
       "ai_processed": true
     },
     {
-      "title": "비씨엔씨, 램리서치 디자인권 침해 소송 사실상 패소",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63501",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-10-08T18:46:49+09:00",
-      "summary": "식각 공정에 사용되는 소모성 부품(엣지링)의 디자인권을 둘러싼 램리서치-비씨엔씨 간 소송으로, 공정 장비 핵심 부품의 지적재산권 보호 중요성을 보여준다. 공정기술 직무 입장에서는 엣지링 등 소모품의 설계·교체 주기가 식각 균일도와 수율에 직결되는 만큼, 장비사-부품사 간 기술 경쟁 및 특허 분쟁 동향을 파악해두는 것이 유용하다.",
-      "relevance_score": 3,
-      "relevant_tags": [
-        "공정",
-        "장비",
-        "식각",
-        "정책",
-        "소모품"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "가트너 \"3분기 세계 PC 출하량, 2023년 초 이후 최저\"",
-      "url": "https://zdnet.co.kr/view/?no=20261013103933",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-10-13T10:44:59+09:00",
-      "summary": "PC 출하량 감소는 메모리 반도체 수요 둔화와 직결되는 시장 지표로, DRAM·NAND 수요 전망에 영향을 미쳐 메모리 업체들의 공정 투자 및 생산 전략(감산, 미세공정 전환 속도 조절 등)에 반영될 수 있다. 다만 공정기술 자체에 대한 내용은 없어 공정기술 직무 입장에서는 시장 상황 파악용 참고 자료 수준이다.",
-      "relevance_score": 2,
-      "relevant_tags": [
-        "시장",
-        "메모리 수요"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "전자전·반도체대전·로보월드 등 전시회 ‘AI’ 주제로 연결…‘K Connect AI’ 출범",
-      "url": "https://zdnet.co.kr/view/?no=20261013112348",
+      "title": "HCL테크, 33억 달러 수주 신기록에 힘입어 2분기 호실적 달성",
+      "url": "https://zdnet.co.kr/view/?no=20261013231023",
       "source": "ZDNet Korea",
       "category": "기타",
-      "published_at": "2026-10-13T11:23:48+09:00",
-      "summary": "이 기사는 한국전자전·반도체대전 등 국내 주요 전시회를 'AI'라는 키워드로 통합 연계한 행사 출범 소식으로, 반도체 공정기술 자체의 기술적 내용보다는 산업 전시·행사 운영에 관한 뉴스다. 다만 반도체대전이 포함되어 있어 AI向 반도체 수요 및 산업 트렌드를 파악하는 참고 자료로는 의미가 있다.",
+      "published_at": "2026-10-13T23:10:23+09:00",
+      "summary": "HCL테크는 IT서비스·컨설팅 기업으로, 이번 기사는 반도체 공정/소자 기술과 직접적인 관련이 없는 실적 발표 소식이다. 다만 AI 관련 매출 증가는 반도체 산업 전반의 AI 수요 확대 흐름과 간접적으로 연결될 수 있으나, 공정기술 직무 관점에서 참고할 내용은 거의 없다.",
       "relevance_score": 1,
       "relevant_tags": [
         "시장",
-        "정책"
+        "IT서비스"
       ],
       "ai_processed": true
     },
@@ -106,32 +54,6 @@
       "source": "디일렉",
       "category": "기사",
       "published_at": "2026-10-13T10:13:29+09:00",
-      "summary": "이 기사는 국내 팹리스 기업 쓰리에이로직스가 NFC 반도체 기술로 국제 혁신상을 수상했다는 소식으로, 메모리 공정기술과 직접적인 연관성은 낮다. 다만 국내 반도체 설계 기업의 국제 표준화 기구 내 위상 강화 사례로서 반도체 산업 생태계 흐름을 파악하는 참고 자료 정도의 가치가 있다.",
-      "relevance_score": 1,
-      "relevant_tags": [
-        "시장",
-        "소자",
-        "팹리스"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "삼성전자, 반도체 협력사 5만8000명에 '감사'…연말까지 상생 행사",
-      "url": "https://www.etnews.com/20261013000019",
-      "source": "전자신문",
-      "category": "기사",
-      "published_at": "2026-10-13T08:55:41+09:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
-    },
-    {
-      "title": "광주 간 최태원 \"용수 전력 늦어도 착공\"... 美시설 반환이 변수",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63512",
-      "source": "디일렉",
-      "category": "기사",
-      "published_at": "2026-10-09T20:02:17+09:00",
       "summary": null,
       "relevance_score": null,
       "relevant_tags": [],
