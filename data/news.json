@@ -1,107 +1,72 @@
 {
-  "collected_at": "2026-10-29T10:30:27+09:00",
+  "collected_at": "2026-10-30T10:32:32+09:00",
   "items": [
     {
-      "title": "[속보] 삼성전자 반도체, 3Q 영업익 106.5조원",
-      "url": "https://zdnet.co.kr/view/?no=20261029095456",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-10-29T09:54:56+09:00",
-      "summary": "삼성전자 DS부문이 3분기 매출 147.1조원, 영업이익 106.5조원의 실적을 발표했다. 이는 메모리 반도체 업황 개선과 가격 상승에 따른 결과로, 공정기술 직무 준비생 입장에서는 실적 호조가 향후 선단공정 투자 확대, 설비 증설, 인력 채용 규모 등에 긍정적 영향을 줄 수 있음을 시사하는 지표로 주목할 만하다. 다만 실적 자체는 재무/경영 관점의 뉴스로 공정기술 세부 내용과는 직접적 연관성이 낮다.",
-      "relevance_score": 2,
+      "title": "삼성전자 2026년 3분기 실적발표 컨퍼런스콜 전문",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64531",
+      "source": "디일렉",
+      "category": "기타",
+      "published_at": "2026-10-29T13:27:45+09:00",
+      "summary": "삼성전자가 AI 반도체 수요 확대에 힘입어 분기 영업이익 100조원을 돌파하는 역대 최대 실적을 기록했으며, 이는 DS(반도체) 부문이 실적 성장을 견인한 결과다. 공정기술 직무 준비생 입장에서는 HBM·DRAM 등 AI 메모리향 수요 급증이 삼성 DS 부문 투자 확대와 공정 미세화·수율 개선에 대한 투자 여력 및 채용 확대로 이어질 가능성을 시사하는 중요한 지표다. 반면 DX 부문의 부품 원가 상승 부담은 메모리 가격 상승 흐름을 간접적으로 보여준다.",
+      "relevance_score": 4,
       "relevant_tags": [
         "시장",
         "실적",
-        "메모리"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "퓨리오사AI, 8200억 시리즈D 투자유치…기업가치 3.8조",
-      "url": "https://zdnet.co.kr/view/?no=20261029090026",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-10-29T09:21:58+09:00",
-      "summary": "AI 반도체 팹리스 스타트업 퓨리오사AI가 대규모 투자를 유치해 기업가치 3.8조원으로 성장했다는 소식으로, 공정기술 자체보다는 AI 반도체 설계 생태계 및 투자 동향에 가까운 내용이다. 다만 국내 AI 반도체 스타트업 성장은 향후 파운드리·메모리 수요(HBM 등) 증가와 연관될 수 있어 간접적 시장 맥락으로 참고할 만하다.",
-      "relevance_score": 2,
-      "relevant_tags": [
-        "시장",
+        "DS부문",
         "AI반도체",
-        "팹리스",
-        "투자"
+        "HBM",
+        "DRAM"
       ],
       "ai_processed": true
     },
     {
-      "title": "AMD \"스파르탄, 경쟁사 FPGA 대비 회로 40% 절감...속도는 1.8배\"",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=64429",
+      "title": "삼성전자, 반도체서만 106조5000억 이익...\"내년 HBM 이미 완판\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64510",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-10-28T15:14:37+09:00",
-      "summary": "AMD가 산업용 FPGA '스파르탄 울트라스케일 플러스'를 통해 회로 효율과 속도를 개선했다는 소식으로, 메모리 공정기술 직무와는 직접적 연관성이 낮다. 다만 FPGA는 메모리와 함께 다양한 시스템에 탑재되는 반도체 소자로, 경쟁사의 설계 효율화 및 공급망 전략 동향을 참고할 수 있는 간접적 시장 정보로 볼 수 있다.",
-      "relevance_score": 2,
+      "published_at": "2026-10-29T11:00:50+09:00",
+      "summary": "삼성전자가 반도체 부문에서 사상 최대 영업이익을 기록했으며, 특히 HBM 내년 물량이 완판될 정도로 HBM 수요가 공급을 초과하는 초호황 국면임을 보여준다. 공정기술 직무 입장에서는 HBM 생산 확대를 위한 TSV, 적층 공정 등 첨단 패키징·공정 투자가 가속화될 것이라는 신호로, 관련 공정 기술 역량 강화 및 채용 확대와 직결되는 중요한 지표다.",
+      "relevance_score": 4,
       "relevant_tags": [
+        "시장",
         "소자",
-        "시장",
-        "경쟁사동향"
+        "HBM",
+        "D램",
+        "실적"
       ],
       "ai_processed": true
     },
     {
-      "title": "IBM, AI 에이전트에 신원 부여하고 비상 정지 기능 제공",
-      "url": "https://zdnet.co.kr/view/?no=20261029095701",
+      "title": "[프로필] 안현 SK하이닉스 미주총괄 사장",
+      "url": "https://zdnet.co.kr/view/?no=20261030102502",
       "source": "ZDNet Korea",
       "category": "기사",
-      "published_at": "2026-10-29T09:57:01+09:00",
-      "summary": "이 기사는 IBM이 AI 에이전트의 신원 관리와 권한 통제, 비상 정지 기능을 제공하는 소프트웨어 제품을 공개했다는 내용으로, 반도체 공정/소자/장비 기술과는 직접적인 관련이 없는 IT 서비스·AI 거버넌스 분야 뉴스이다. 다만 AI 에이전트 확산은 장기적으로 데이터센터용 메모리·AI 반도체 수요 증가와 연결될 수 있어 시장 동향 참고 차원에서만 의미가 있다.",
-      "relevance_score": 1,
-      "relevant_tags": [
-        "시장",
-        "AI",
-        "IT서비스"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "LGU+, 스마트폰 AI 속도 4.5배 높이고 배터리 소모 77% 줄였다",
-      "url": "https://zdnet.co.kr/view/?no=20261029092931",
-      "source": "ZDNet Korea",
-      "category": "기사",
-      "published_at": "2026-10-29T09:29:31+09:00",
-      "summary": "이 기사는 LG유플러스가 온디바이스 AI의 토큰 최적화 소프트웨어 기술을 개발해 처리 속도와 배터리 효율을 개선했다는 내용으로, 반도체 공정기술 자체와는 직접적인 관련이 없다. 다만 온디바이스 AI 확산은 저전력·고효율 메모리(LPDDR, 온디바이스 NPU용 메모리) 수요를 늘려 장기적으로 메모리 공정기술 방향성에 간접적인 시장 함의를 줄 수 있다. 공정기술 직무 준비생 입장에서는 참고용 트렌드 정보 수준으로 볼 수 있다.",
-      "relevance_score": 1,
-      "relevant_tags": [
-        "시장",
-        "AI",
-        "소프트웨어"
-      ],
-      "ai_processed": true
-    },
-    {
-      "title": "곽노정 대표, 처음으로 컨콜 마이크 잡았다... 주주 신뢰회복에 '방점'",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=64425",
-      "source": "디일렉",
-      "category": "기타",
-      "published_at": "2026-10-28T14:25:07+09:00",
-      "summary": "SK하이닉스 CEO가 직접 컨퍼런스콜에 나서 솔리다임 IPO 관련 주주 신뢰회복과 주주환원 정책을 설명한 경영진 커뮤니케이션 관련 기사로, 공정기술 자체와는 거리가 있다. 다만 경쟁사의 재무전략, 투자 방향성, 시장 신뢰도 변화는 향후 CapEx 및 공정 투자 결정에 간접적 영향을 줄 수 있어 산업 동향 파악 차원에서 참고할 만하다.",
-      "relevance_score": 1,
+      "published_at": "2026-10-30T10:25:21+09:00",
+      "summary": "SK하이닉스가 미국 현지 사업 강화를 위해 개발총괄(CDO) 출신 안현 사장을 미주총괄로 신규 선임한 인사 소식으로, 공정기술 자체보다는 경쟁사의 조직개편 및 미국 시장(AI 메모리, 현지 생산·고객 대응) 전략 강화 동향을 보여준다. 공정기술 직무 준비생 입장에서는 경쟁사의 미국 내 투자·R&D 거점 확대가 향후 공정 경쟁 구도와 채용·기술협력에 미칠 영향을 참고할 수 있다.",
+      "relevance_score": 2,
       "relevant_tags": [
         "시장",
         "경쟁사동향",
-        "경영전략"
+        "인사",
+        "낸드"
       ],
       "ai_processed": true
     },
     {
-      "title": "삼성전자, 브랜드 가치 140조원",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=64427",
+      "title": "인텔-SAP, 피지컬 AI 협력...기업 전산-로봇 연결한다",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=64545",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-10-28T14:31:14+09:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-10-29T18:39:22+09:00",
+      "summary": "인텔과 SAP가 창고 물류관리 전산시스템과 엣지 AI 하드웨어를 연동해 로봇 자동화를 구현하는 피지컬 AI 협력을 발표했다. 이는 반도체 공정기술 직무와 직접적 관련은 적지만, 팹 내 스마트팩토리·자동화 설비 운영 및 엣지 AI 반도체 수요 트렌드를 이해하는 데 참고할 만하다. 공정기술 관점에서는 생산 현장의 자동화·실시간 모니터링 체계가 향후 반도체 팹 운영에도 확산될 수 있다는 점에서 시사점이 있다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "장비",
+        "자동화",
+        "엣지AI"
+      ],
+      "ai_processed": true
     }
   ]
 }
