@@ -1,42 +1,185 @@
 {
-  "collected_at": "2026-11-10T12:58:17+09:00",
+  "collected_at": "2026-11-11T10:42:01+09:00",
   "items": [
     {
-      "title": "신사업 확대하는 나무가…美 알테라와 로봇 센서 개발",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65021",
+      "title": "AP시스템, 반도체 부문 신규 수주 1000억원 돌파",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65229",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-11-09T14:57:18+09:00",
-      "summary": "이 기사는 카메라 모듈 업체 나무가가 FPGA 업체 알테라와 협력해 로봇용 3D 센서 및 데이터 처리 시스템을 공동 개발한다는 내용으로, 메모리 공정기술과는 직접적인 연관성이 낮다. 다만 피지컬 AI·로봇 시장 확대에 따른 센서·FPGA 수요 증가는 향후 메모리(특히 엣지 AI용 고성능/저전력 메모리) 수요에 간접적 영향을 줄 수 있어 시장 동향 참고 차원에서 의미가 있다.",
-      "relevance_score": 2,
+      "published_at": "2026-11-11T10:02:10+09:00",
+      "summary": "AP시스템의 RTP(급속열처리) 장비는 낸드 및 D램 전공정에서 열처리 공정 품질을 좌우하는 핵심 장비로, 삼성전자 메모리 공정과 직접 연계된 기술이다. 이번 수주 확대는 국내 메모리 제조사의 공정 투자 확대와 RTP 장비 점유율 변화를 보여주는 사례로, 공정기술 직무 지원자는 열처리 공정의 원리와 장비 트렌드를 이해해두면 도움이 된다.",
+      "relevance_score": 4,
       "relevant_tags": [
-        "시장",
+        "공정",
+        "장비",
         "소자",
-        "AI/로봇"
+        "시장"
       ],
       "ai_processed": true
     },
     {
-      "title": "삼성, 감사의 날 행사에 현대차 초청",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65118",
+      "title": "딥엑스, 삼성 2나노 칩 'DX-M2' 마스크 제작 착수...내년 4분기 양산",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65250",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-11-09T18:00:07+09:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-11-11T09:59:35+09:00",
+      "summary": "딥엑스가 삼성전자 파운드리의 2세대 2나노 공정(SF2P)을 활용해 AI 반도체 'DX-M2'의 테이프아웃을 완료하고 마스크 제작에 착수했다. 공정기술 직무 관점에서는 삼성 2나노 공정의 실제 고객사 적용 사례와 양산 로드맵(내년 4분기 양산)을 확인할 수 있어, 선단공정 경쟁력 및 파운드리 노광/왜곡보정 기술 수준을 가늠하는 데 유의미한 기사다. 또한 삼성 파운드리가 TSMC 대비 2나노 공정에서 팹리스 고객을 확보해가는 과정을 보여준다는 점에서 경쟁사 동향 파악에도 참고할 만하다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "파운드리",
+        "장비",
+        "시장",
+        "선단공정",
+        "2나노"
+      ],
+      "ai_processed": true
     },
     {
-      "title": "램리서치코리아, 김태원 신임 대표 선임",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65085",
+      "title": "삼성 EUV 블랭크마스크 조달 비상…日호야 \"더 못 늘린다\"",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65231",
       "source": "디일렉",
       "category": "기사",
-      "published_at": "2026-11-09T12:37:22+09:00",
-      "summary": null,
-      "relevance_score": null,
-      "relevant_tags": [],
-      "ai_processed": false
+      "published_at": "2026-11-10T17:47:42+09:00",
+      "summary": "EUV 블랭크마스크는 극자외선 노광공정의 핵심 소재로, 삼성전자의 EUV 공정 확대(미세화 및 적층 증가)에 따라 사용량이 급증하고 있으나 독점 공급사인 호야의 캐파 한계로 조달 리스크가 발생했다. 이는 공정기술 직무 관점에서 EUV 레이어 수 증가, 수율 관리, 공급망 다변화 전략(국산화·대체 소재 개발 포함)이 향후 공정 설계와 생산 계획에 중요한 변수로 작용할 수 있음을 시사한다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "소재",
+        "장비",
+        "EUV",
+        "공급망",
+        "시장"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "쎄크, 마이크론에 HBM 검사장비 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65201",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-11-10T13:19:26+09:00",
+      "summary": "쎄크가 마이크론 싱가포르 HBM 양산라인에 엑스레이 검사장비(NF120 시리즈)를 공급하는 계약으로, HBM 적층 공정(TSV 본딩 등)에서 내부 결함을 검출하는 검사 기술의 중요성을 보여준다. 공정기술 직무 입장에서는 HBM 수율 관리를 위한 비파괴 검사·계측 장비 트렌드와 경쟁사(마이크론) 양산 investment 동향을 파악할 수 있는 사례다.",
+      "relevance_score": 4,
+      "relevant_tags": [
+        "공정",
+        "장비",
+        "소자",
+        "HBM",
+        "경쟁사동향",
+        "검사계측"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "TSMC, AI 반도체 호황에 10월 매출 5869억대만달러…월간 기준 사상 최대치",
+      "url": "https://www.etnews.com/20261110000479",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-11-10T19:21:43+09:00",
+      "summary": "TSMC가 AI 반도체 수요 급증에 힘입어 월간 사상 최대 매출을 기록했다는 소식으로, 이는 파운드리 첨단 공정(5nm 이하) 가동률 상승과 직결된다. 공정기술 직무 준비생 입장에서는 AI向 HBM·로직 반도체 수요 확대가 미세공정 경쟁 심화와 메모리-로직 패키징(2.5D/3D) 기술 수요로 이어지는 흐름을 이해하는 데 참고할 만하다. 다만 메모리 공정 자체에 대한 직접적 기술 내용은 없어 시장 동향 참고 수준의 기사다.",
+      "relevance_score": 3,
+      "relevant_tags": [
+        "시장",
+        "파운드리",
+        "AI반도체",
+        "경쟁사 동향"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "160만닉스·30만전자 vs 470만닉스·67만전자…극과 극 전망? 개미들 “아무도 못믿어”",
+      "url": "https://www.etnews.com/20261110000500",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-11-10T21:46:36+09:00",
+      "summary": "글로벌 IB들이 삼성전자·SK하이닉스 목표주가를 두고 공급과잉(모건스탠리)과 공급부족 지속(노무라)으로 극명하게 엇갈린 전망을 내놓은 기사다. 공정기술 직무 관점에서는 이러한 메모리 수급 전망 차이가 향후 미세공정 투자 속도, 증설 계획, HBM 등 첨단 공정 전환 타이밍에 영향을 줄 수 있어 산업 사이클을 이해하는 데 참고할 만하다. 다만 기사 자체는 기술적 내용보다는 주가·시장 전망 중심이라 공정기술 직무와의 직접적 연관성은 낮은 편이다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "메모리 반도체",
+        "주가전망",
+        "공급과잉/부족"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "젠슨 황 스캔들 파장 확산…미 민주당, 대중 기술규제 강화 카드",
+      "url": "https://www.etnews.com/20261110000303",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-11-10T14:07:47+09:00",
+      "summary": "엔비디아 CEO 스캔들로 인한 주가 급락과 미국의 대중 기술규제 강화 가능성을 다룬 기사로, 직접적인 공정/소자 기술 내용은 없지만 AI 반도체 공급망과 미중 기술패권 경쟁 동향을 보여준다. 공정기술 직무 관점에서는 HBM 등 AI 메모리 수요의 핵심 고객사인 엔비디아의 리스크와 대중 수출규제 강화가 향후 메모리 공정 투자 및 고객사 로드맵에 간접적 영향을 줄 수 있다는 점에서 참고할 만하다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "시장",
+        "정책",
+        "소자(AI반도체)"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "딥엑스, 특허기술상 '홍대용상' 수상…AI 반도체 원천기술 입증",
+      "url": "https://zdnet.co.kr/view/?no=20261111100004",
+      "source": "ZDNet Korea",
+      "category": "기사",
+      "published_at": "2026-11-11T10:03:22+09:00",
+      "summary": "AI 반도체 팹리스 스타트업 딥엑스가 인공신경망 연산 가속 관련 원천 특허로 정부 포상을 받은 사례로, 메모리와 데이터 이동·저장 효율화가 AI 반도체 성능에 직결된다는 점을 보여준다. 공정기술 직무 관점에서는 AI 가속기용 메모리(HBM, 온칩 메모리 등) 수요 증가와 연산-메모리 간 병목 해소 트렌드를 이해하는 데 참고할 만하다. 다만 이는 팹리스 설계/아키텍처 특허에 가까워 실제 반도체 공정(미세화, 소자 구조) 기술과는 간접적 연관성을 가진다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "소자",
+        "시장",
+        "정책",
+        "AI반도체"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "AMD, 구글 차세대 AI 연산 시스템에 5세대 에픽 공급",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65200",
+      "source": "디일렉",
+      "category": "기사",
+      "published_at": "2026-11-10T14:13:22+09:00",
+      "summary": "AMD의 5세대 에픽 CPU가 구글의 차세대 TPU(8tx) 기반 AI 연산 시스템에 호스트 CPU로 공급되는 사례로, AI 가속기와 서버 CPU 간 결합 구조를 보여준다. 공정기술 직무 관점에서는 직접적인 미세공정 이슈보다는 AI 시스템에서 CPU·ASIC·메모리가 어떻게 상호작용하는지, HBM 등 고성능 메모리 수요를 이끄는 AI 가속기 시장의 흐름을 파악하는 데 참고할 만하다. 메모리 사업부 입장에서는 TPU/ASIC 기반 AI 시스템 확산이 향후 HBM 및 고성능 메모리 공정 수요에 미치는 영향을 간접적으로 시사한다.",
+      "relevance_score": 2,
+      "relevant_tags": [
+        "소자",
+        "시장",
+        "AI 가속기",
+        "CPU",
+        "ASIC"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”",
+      "url": "https://www.etnews.com/20261111000001",
+      "source": "전자신문",
+      "category": "기사",
+      "published_at": "2026-11-11T07:05:16+09:00",
+      "summary": "이 기사는 엔비디아 AI 반도체의 대중국 수출통제 우회 밀반입 의혹을 다룬 내용으로, 공정기술 자체보다는 미중 반도체 패권경쟁과 수출규제 정책 이슈에 가깝다. 다만 AI 가속기 수요와 첨단 메모리(HBM) 공급망이 지정학적 리스크와 규제에 민감하게 반응한다는 점에서 메모리 사업 환경을 이해하는 배경지식으로는 참고할 만하다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "정책",
+        "시장",
+        "수출규제",
+        "AI반도체"
+      ],
+      "ai_processed": true
+    },
+    {
+      "title": "일파만파 번지는 의혹...젠슨 황, 무엇을 답해야 하나",
+      "url": "https://zdnet.co.kr/view/?no=20261111011038",
+      "source": "ZDNet Korea",
+      "category": "기사",
+      "published_at": "2026-11-11T09:37:11+09:00",
+      "summary": "이 기사는 엔비디아 CEO 젠슨 황의 사생활 및 중국 정보기관 연계 의혹에 따른 경영·지배구조 리스크를 다룬 것으로, 반도체 공정기술 자체보다는 기업 지배구조와 미중 패권 경쟁이라는 거시적 이슈에 초점이 맞춰져 있다. 다만 엔비디아의 AI 반도체 생태계 리더십이 흔들릴 경우 HBM 등 메모리 수요 및 공급망 전략에 간접적 영향을 줄 수 있어 산업 동향 참고용으로는 의미가 있다.",
+      "relevance_score": 1,
+      "relevant_tags": [
+        "시장",
+        "정책"
+      ],
+      "ai_processed": true
     }
   ]
 }
